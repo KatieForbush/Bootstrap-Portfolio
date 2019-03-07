@@ -43,9 +43,10 @@ li {
     color: white;
     background-color: teal;
     font-size: 24px;
-    padding: 26.5px;
+    padding: 19px 18px 18px 18px;
     font-weight: bold;
     float: left;
+    margin-top: auto;
 }
 a:link, a:visited {
     color: grey;
