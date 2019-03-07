@@ -134,3 +134,13 @@ a:hover {
     font-size: 16px;
     color:gray;
   }
+
+  .footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: darkgray;
+   color: white;
+   text-align: center;
+  }
